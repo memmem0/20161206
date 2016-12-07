@@ -1,1 +1,8 @@
-language: HTML5
+1 language: cpp
+2
+
+3 sudo: false
+4
+
+5 script:
+6   - make -C Build
